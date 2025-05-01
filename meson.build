@@ -144,6 +144,7 @@ default_drivers = [
     'fpcmoc',
     'realtek',
     'focaltech_moc',
+    'ft9338',
 ]
 
 spi_drivers = [

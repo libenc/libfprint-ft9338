@@ -153,6 +153,8 @@ driver_sources = {
         [ 'drivers/realtek/realtek.c' ],
     'focaltech_moc' :
         [ 'drivers/focaltech_moc/focaltech_moc.c' ],
+    'ft9338' :
+        [ 'drivers/ft9338.c' ],
 }
 
 helper_sources = {
